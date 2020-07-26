@@ -4,6 +4,6 @@ function updatePlaylist(){
   return Object
 }
 
-function removeFromPplaylist(){
+function removeFromPlaylist(){
   return Object
 }
