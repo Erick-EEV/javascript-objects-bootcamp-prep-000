@@ -2,7 +2,7 @@ var playlist = {Object};
 
 function updatePlaylist(playList, artistName, songTitle){
  playList[artistName] = songTitle
- return obj
+ return playList
 }
 
 function removeFromPlaylist(){
