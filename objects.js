@@ -1,6 +1,6 @@
 var playlist = {Object};
 
-function updatePlaylist(){
+function updatePlaylist(ojb, string, title){
   var playlist = new Object({artistName: songTitle})
   return updatePlaylist
 }
