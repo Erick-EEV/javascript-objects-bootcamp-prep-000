@@ -1,6 +1,6 @@
-var playlist = {Object};
+var playlist = Object;
 
-function playlist(){
+function updatePlaylist(){
   return playlist
 }
 
