@@ -1,7 +1,7 @@
 var playlist = {Object};
 
 function updatePlaylist(playList, artistName, songTitle){
-  Object.push(artistName, songTitle)
+  .push(artistName, songTitle)
   return playlist
 }
 
