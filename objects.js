@@ -1,9 +1,9 @@
 var playlist = Object;
 
 function updatePlaylist(){
-  return playlist
+  return Object
 }
 
 function removeFromPplaylist(){
-  return playlist
+  return Object
 }
